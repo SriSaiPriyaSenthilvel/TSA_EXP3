@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/f5900071-b1ed-49a7-9a07-e90b34ee8211) # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
+## DEVELOPED BY : SRI SAI PRIYA S
+## REG NO. : 212222240103
+## Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
 Date: 
 
 ### AIM:
